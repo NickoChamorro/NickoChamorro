@@ -1,6 +1,6 @@
 <h1 align="center">Hola <a href="#"><img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" style="cursor: text"></a>, mi nombre es Nicolás Chamorro</h1>
 <p align="Left">Trabajo en IT como analista desarrollador Genexus hace más de 10 años. 
-  El año pasado decidí actualizar mi stack y me formé como desarrollador frontend, más específicamente en React.</p>
+  En el 2022 decidí actualizar mi stack y me formé como desarrollador frontend, más específicamente en React.</p>
 
 ---
 
